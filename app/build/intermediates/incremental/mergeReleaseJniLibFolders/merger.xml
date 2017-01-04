@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/owner/AndroidStudioProjects/Paint/app/src/main/jniLibs"/></dataSet><dataSet config="release"><source path="/home/owner/AndroidStudioProjects/Paint/app/src/release/jniLibs"/></dataSet></merger>
