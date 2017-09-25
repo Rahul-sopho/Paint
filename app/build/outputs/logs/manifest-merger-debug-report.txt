@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:3:5-38
 		INJECTED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml
@@ -15,17 +15,20 @@ ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.
 		INJECTED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml
 uses-sdk
 ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:appcompat-v7:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/owner/.android/build-cache/dedafe7b0c0492acdd44fe8ae2400daed7f286ec/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/owner/.android/build-cache/56da6971423a9ed6dd9fc77a70fbb91cd4ce022a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/owner/.android/build-cache/5818dd630bc44526df6569530d649572a7dad796/output/AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/owner/.android/build-cache/51a772d9d0dab2951e4703a965633be8787f4f2a/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /home/owner/.android/build-cache/2f85ee3e1383e34a3b3cbab959ca92f3cdd357b7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/owner/.android/build-cache/c68c551c4a10a42556cb90af62a06c1018b333ac/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.2.1] /home/owner/.android/build-cache/1972ce38d54f871cbb91093e403e4dc3caea7f87/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /home/owner/.android/build-cache/a439d7e58008eb6f6ca39635ce9a69480d85cbfb/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/owner/.android/build-cache/32d6e91617226ce84cd9034838a57aef8b2e7a71/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/owner/.android/build-cache/0fd14b2fa9bd43b7ce16df9a7a953823b4cde115/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/owner/.android/build-cache/23dd640e0fd30c0e15cbda92373c656879332932/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /home/owner/.android/build-cache/95ea808bc47fc6ea6df12d9592833414dde6f7c6/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/owner/.android/build-cache/dedafe7b0c0492acdd44fe8ae2400daed7f286ec/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:7:9-38
 		INJECTED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml
@@ -43,16 +46,18 @@ ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.
 	android:name
 		ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:9:22-78
 application
-ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:11:5-24:19
-MERGED from [com.android.support:appcompat-v7:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:22:5-20
+ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:11:5-28:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/owner/.android/build-cache/dedafe7b0c0492acdd44fe8ae2400daed7f286ec/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/owner/.android/build-cache/56da6971423a9ed6dd9fc77a70fbb91cd4ce022a/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/owner/.android/build-cache/5818dd630bc44526df6569530d649572a7dad796/output/AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /home/owner/.android/build-cache/51a772d9d0dab2951e4703a965633be8787f4f2a/output/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/owner/.android/build-cache/c68c551c4a10a42556cb90af62a06c1018b333ac/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.2.1] /home/owner/.android/build-cache/1972ce38d54f871cbb91093e403e4dc3caea7f87/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/owner/.android/build-cache/a439d7e58008eb6f6ca39635ce9a69480d85cbfb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/owner/.android/build-cache/32d6e91617226ce84cd9034838a57aef8b2e7a71/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/owner/.android/build-cache/0fd14b2fa9bd43b7ce16df9a7a953823b4cde115/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/owner/.android/build-cache/23dd640e0fd30c0e15cbda92373c656879332932/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/owner/.android/build-cache/95ea808bc47fc6ea6df12d9592833414dde6f7c6/output/AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:14:9-41
 	android:supportsRtl
@@ -77,3 +82,10 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
 		ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:21:27-74
+meta-data#com.google.android.gms.version
+ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:25:9-27:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /home/owner/.android/build-cache/c68c551c4a10a42556cb90af62a06c1018b333ac/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:27:13-66
+	android:name
+		ADDED from /home/owner/AndroidStudioProjects/Paint/app/src/main/AndroidManifest.xml:26:13-58

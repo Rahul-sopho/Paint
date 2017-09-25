@@ -1,38 +1,38 @@
 [
     {
         "merged": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_switch_track.xml"
+        "source": "/home/owner/.android/build-cache/dedafe7b0c0492acdd44fe8ae2400daed7f286ec/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
-        "source": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_switch_thumb.xml"
+        "source": "/home/owner/.android/build-cache/dedafe7b0c0492acdd44fe8ae2400daed7f286ec/output/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_default.xml"
+        "source": "/home/owner/.android/build-cache/dedafe7b0c0492acdd44fe8ae2400daed7f286ec/output/res/color-v23/abc_tint_default.xml"
     },
     {
         "merged": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_btn_checkable.xml"
+        "source": "/home/owner/.android/build-cache/dedafe7b0c0492acdd44fe8ae2400daed7f286ec/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_spinner.xml"
+        "source": "/home/owner/.android/build-cache/dedafe7b0c0492acdd44fe8ae2400daed7f286ec/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
         "merged": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_edittext.xml"
+        "source": "/home/owner/.android/build-cache/dedafe7b0c0492acdd44fe8ae2400daed7f286ec/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_tint_seek_thumb.xml"
+        "source": "/home/owner/.android/build-cache/dedafe7b0c0492acdd44fe8ae2400daed7f286ec/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_color_highlight_material.xml"
+        "source": "/home/owner/.android/build-cache/dedafe7b0c0492acdd44fe8ae2400daed7f286ec/output/res/color-v23/abc_color_highlight_material.xml"
     },
     {
         "merged": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/home/owner/AndroidStudioProjects/Paint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+        "source": "/home/owner/.android/build-cache/dedafe7b0c0492acdd44fe8ae2400daed7f286ec/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     }
 ]

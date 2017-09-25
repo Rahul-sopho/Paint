@@ -9,7 +9,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.owner.paint.org.example.owner.paint.MainActivity">
+    tools:context="org.Paint.application.paint.MainActivity">
 
 
     <org.Paint.application.paint.CanvasView
@@ -19,16 +19,48 @@
         android:layout_above="@+id/button"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
+        android:background="@android:color/background_light"
         />
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@android:color/background_light"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/button2"
+        android:layout_toStartOf="@+id/button2"
+        android:id="@+id/iv" />
+
     <Button
-        android:text="Clear Canvas"
+        android:text="Clear"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="clearCanvas"
         android:id="@+id/button"
-        android:layout_alignParentBottom="true"
+        android:layout_above="@+id/iv"
         android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="Save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button2"
+        android:layout_below="@+id/canvas"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="24dp"
+        android:layout_marginEnd="24dp" />
+
+    <Button
+        android:text="Share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:id="@+id/button3"
+        android:layout_below="@+id/canvas"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
 
 
 </RelativeLayout>
